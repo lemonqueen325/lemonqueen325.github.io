@@ -10,7 +10,7 @@
  background-color: #fffdb5;
  height: 40px;
  width: 150px;
- display: inline;
+ display: inline-block;
 }
 * {
  background-color: #00233c; 
