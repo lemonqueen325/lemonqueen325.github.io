@@ -9,14 +9,14 @@
 .tab {
  background-color: #fffdb5;
  height: 40px;
- width: 350px;
+ width: 500px;
  display: inline-block;
  border-bottom-left-radius: 10px;
  border-bottom-right-radius: 10px;
  color: #0083ff;
  font-size: 2em;
  text-align: center;
- margin-right: 100px;
+ 
 }
 * {
  background-color: #00233c; 
