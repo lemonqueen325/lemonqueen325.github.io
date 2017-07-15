@@ -1,5 +1,8 @@
 .main-header {
   background-color: #fffedd;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 * {
  background-color: #00233c; 
