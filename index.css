@@ -9,8 +9,9 @@
 .tab {
  background-color: #fffdb5;
  height: 40px;
- width: 150px;
+ width: 250px;
  display: inline-block;
+ border-radius: 10px;
 }
 * {
  background-color: #00233c; 
