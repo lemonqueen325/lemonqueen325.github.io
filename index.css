@@ -16,7 +16,17 @@
  color: #0083ff;
  font-size: 2em;
  text-align: center;
- 
+}
+.tab:hover {
+ background-color: #fffc7f;
+ height: 40px;
+ width: 33.33333333333333%;
+ display: inline-block;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ color: #0083ff;
+ font-size: 2em;
+ text-align: center;
 }
 * {
  background-color: #00233c; 
