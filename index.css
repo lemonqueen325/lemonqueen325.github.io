@@ -63,6 +63,6 @@ body {
 }
 
 .dropdown-cont:hover .dropdown-content-cont {
-
+  display: block;
 }
  
