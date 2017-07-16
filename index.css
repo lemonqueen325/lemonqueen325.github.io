@@ -56,13 +56,13 @@ body {
     color: #FFA500;
     padding: 12px 16px;
     text-decoration: none;
-    display: block;
+
 }
 .dropdown-links:hover {
 	background-color: brown;
 }
 
 .dropdown-cont:hover .dropdown-content-cont {
-    display: block;
+
 }
  
