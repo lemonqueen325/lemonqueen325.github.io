@@ -28,9 +28,11 @@
  font-size: 2em;
  text-align: center;
 }
+* {
+ background-color: #00233c; 
+}
 body {
  background-image: url('http://i.imgur.com/HjvC01D.png');
  background-attachment: fixed;
  background-repeat: repeat;
- background-size: 100% 100%;
 }
