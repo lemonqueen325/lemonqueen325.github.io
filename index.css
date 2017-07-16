@@ -37,13 +37,6 @@ body {
     overflow: hidden;
 }
 
-.dropdown .dropbtn {
-    font-size: 16px;    
-    border: none;
-    outline: none;
-    color: white;
-    background-color: inherit;
-}
 
 
 .dropdown-content {
