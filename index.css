@@ -28,6 +28,28 @@
  font-size: 2em;
  text-align: center;
 }
+#tab {
+ background-color: #fffdb5;
+ height: 40px;
+ width: 20%;
+ display: inline-block;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ color: #0083ff;
+ font-size: 2em;
+ text-align: center;
+}
+#tab:hover {
+ background-color: #fffc7f;
+ height: 40px;
+ width: 20%;
+ display: inline-block;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ color: #0083ff;
+ font-size: 2em;
+ text-align: center;
+}
 body {
  background-color: #00233c; 
 }
