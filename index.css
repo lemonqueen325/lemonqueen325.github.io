@@ -30,5 +30,45 @@
 }
 body {
  background-color: #00233c; 
- 
+}
+.dropdown-button {
+    background-color: brown;
+    color: #FFA500;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+    padding: none;
+    margin: none;
+}
+.dropdown-cont {
+    position: relative;
+    display: inline-block;
+    background-color: brown;
+}
+.dropdown-content-cont {
+    display: none;
+    position: absolute;
+    background-color: #8B0000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    padding: none;
+    margin: none;
+}
+.dropdown-links {
+    color: #FFA500;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-links:hover {
+	background-color: brown;
+}
+.dropdown-links:hover #fractions {
+    background-color: #8B0000;
+}
+.dropdown-cont:hover .dropdown-content-cont {
+    display: block;
+}
  
